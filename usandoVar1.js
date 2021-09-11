@@ -1,0 +1,1 @@
+//variavel possui apenas 2 tipos de escopos global ou var de escopo de funcao
