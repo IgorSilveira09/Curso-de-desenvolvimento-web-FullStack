@@ -1,0 +1,1 @@
+// sempre usar as {} nas funcões IF e não usar ; 
